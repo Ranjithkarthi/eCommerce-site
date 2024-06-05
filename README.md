@@ -1,4 +1,4 @@
-In this project, let's build a **Nxt Trendz - Frontend features**
+In this project, let's build a **eCommerce - Frontend features**
 
 ### Refer to the video below:
 
